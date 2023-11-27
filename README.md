@@ -1,9 +1,9 @@
 ![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/zeos.png)
 
 - 👋 Hi, I’m [@Stanlyio](https://www.instagram.com/stanislav.xr/)
-- 👀 I’m interested in cyber researcher and development
-- 🌱 I’m currently learning python, html, node.js aanndd OSINT
-- 💞️ I’m looking to collaborate on cybersecurity
+- :fleur_de_lis: I’m interested in cyber researcher and development
+- :palm_tree: I’m currently learning python, html, node.js aanndd OSINT
+- :atom: I’m looking to collaborate on cybersecurity
 - 📫 How to reach me - Telegram [@geves777](https://t.me/geves777)
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
