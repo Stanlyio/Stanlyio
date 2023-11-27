@@ -4,7 +4,7 @@
 - 👀 I’m interested in cyber researcher and development
 - 🌱 I’m currently learning python, html, node.js aanndd OSINT
 - 💞️ I’m looking to collaborate on cybersecurity
-- 📫 How to reach me - Telegram @geves777
+- 📫 How to reach me - Telegram [@geves777](https://t.me/geves777)
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
