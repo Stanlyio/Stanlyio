@@ -1,4 +1,4 @@
-![Image alt](https://github.com/dashboard-ZEOS-icons/blob/main/png/zeos.png)
+![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/zeos.png)
 
 - 👋 Hi, I’m @Stanlyio
 - 👀 I’m interested in cyber researcher and development
