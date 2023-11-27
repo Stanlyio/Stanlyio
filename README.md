@@ -1,6 +1,6 @@
 ![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/zeos.png)
 
-- 👋 Hi, I’m @Stanlyio
+- 👋 Hi, I’m [@Stanlyio](https://www.instagram.com/stanislav.xr/)
 - 👀 I’m interested in cyber researcher and development
 - 🌱 I’m currently learning python, html, node.js aanndd OSINT
 - 💞️ I’m looking to collaborate on cybersecurity
