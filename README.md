@@ -1,4 +1,4 @@
-![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/zeos.png)
+![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/zeos.png) ![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/ufogif.gif)
 
 - 👋 Hi, I’m [@Stanlyio](https://www.instagram.com/stanislav.xr/)
 - :fleur_de_lis: I’m interested in cyber researcher and development
