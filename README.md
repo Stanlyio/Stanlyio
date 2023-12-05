@@ -1,6 +1,6 @@
 ![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/zeos.png) ![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/ufogif.gif)
 
-- 👋 Hi, I’m [@Stanlyio](https://www.instagram.com/stanislav.xr/)
+- 👋 Hi, I’m [@Stanislav](https://www.instagram.com/stanislav.xr/)
 - :fleur_de_lis: I’m interested in cyber researcher and development
 - :palm_tree: I’m currently learning python, html, node.js aanndd OSINT
 - :atom: I’m looking to collaborate on cybersecurity
