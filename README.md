@@ -1,5 +1,7 @@
 ![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/zeos.png) ![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/ufogif.gif)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=IT Sec+developer+cyber+researcher;creative+writer)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m [@Stanislav](https://www.instagram.com/stanislav.xr/)
 - :fleur_de_lis: I’m interested in cyber researcher and development
 - :palm_tree: I’m currently learning python, html, node.js aanndd OSINT
@@ -22,7 +24,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
