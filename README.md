@@ -1,4 +1,4 @@
-![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/zeos.png) ![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/ufogif.gif)
+![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/keebeer.png) ![Image alt](https://github.com/Stanlyio/dashboard-ZEOS-icons/blob/main/png/ufogif.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iT+sec+cyber+researcher;developer+creative+writer)](https://git.io/typing-svg)
 
