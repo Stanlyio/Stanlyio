@@ -29,4 +29,4 @@
 </div>
 
 
-[![telegram badge](https://img.shields.io/badge/iTsec-notes-30302f?style=flat&logo=telegram)](https://t.me/cyberseeya)
+[![telegram badge](https://img.shields.io/badge/iTsec-notes-30302f?style=flat&logo=telegram)](https://t.me/cyberseeya)  [![telegram badge](https://img.shields.io/badge/Cyberio-pro-30302f?style=flat&logo=telegram)](https://t.me/cyberiopro)  [![telegram badge](https://img.shields.io/badge/Lite-life-30302f?style=flat&logo=telegram)](https://t.me/lifelovepeace)  [![telegram badge](https://img.shields.io/badge/KEE-BEER-30302f?style=flat&logo=telegram)](https://t.me/keebeer)
