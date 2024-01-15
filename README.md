@@ -27,3 +27,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </p>
 </div>
+
+
+[![telegram badge](https://img.shields.io/badge/iTsec-notes-30302f?style=flat&logo=telegram)](https://t.me/cyberseeya)
