@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iT+sec+cyber+researcher;developer+EH+OSINT)](https://git.io/typing-svg)
 - 👋 Hi, I’m [@Stanislav](https://stanlyio.github.io/)
 - :fleur_de_lis: I’m interested in cyber researcher and development
 - :palm_tree: I’m currently learning python, html, node.js aanndd OSINT
